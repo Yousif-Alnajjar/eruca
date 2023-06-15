@@ -1,3 +1,5 @@
+# CMU 15-112 Term Project
+
 Eruca - a program that uses a long short-term memory network, a subset of recursive neural networks, to predict the price of Bitcoin.
 This prediction is used to algorithmically buy and sell bitcoin at price levels based on a user's selected risk level.
 
